@@ -6,4 +6,3 @@
     Access-Control-Allow-Methods = "GET, HEAD, OPTIONS"
     Access-Control-Max-Age = "86400"
     Cross-Origin-Resource-Policy = "cross-origin"
-    Cross-Origin-Embedder-Policy = "require-corp"
